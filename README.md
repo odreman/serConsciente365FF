@@ -25,19 +25,9 @@ SerConsciente365 es una aplicación centrada en el bienestar emocional y el desa
 - Flutter: un framework de UI de código abierto de Google para crear aplicaciones móviles compiladas nativamente.
 - Firebase: una plataforma desarrollada por Google para la creación de aplicaciones web y móviles.
 
-## Instalación
+## Link google play
 
-1. Clona el repositorio
-2. En la terminal, ve al directorio del proyecto y ejecuta `flutter pub get`
-3. Luego, para iniciar la aplicación, ejecuta `flutter run`
-
-## Pruebas
-
-Se realizaron pruebas manuales para validar el correcto funcionamiento de la aplicación y detectar errores tempranamente. La aplicación fue probada en varios dispositivos virtuales con diferentes dimensiones de pantalla y en un dispositivo físico, Xiaomi 12T Pro.
-
-## Futuros desarrollos
-
-Los desarrollos futuros incluyen funcionalidades adicionales como la posibilidad de personalizar los horarios de los recordatorios, enriquecer la experiencia del usuario permitiendo personalizar y compartir sus entradas, implementar un sistema de análisis emocional basado en Inteligencia Artificial y un sistema de gamificación para incentivar a los usuarios a registrar sus emociones regularmente.
+https://play.google.com/store/apps/details?id=com.odremanferrer.serconsciente365&hl=es_MX&gl=US
 
 ## Feedback
 
