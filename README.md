@@ -4,7 +4,7 @@
 
 SerConsciente365 es una aplicación centrada en el bienestar emocional y el desarrollo de la inteligencia emocional. Proporciona una plataforma segura y privada para el registro diario de emociones y la escritura reflexiva, fomentando la autorreflexión y el autoconocimiento. Con una experiencia de usuario intuitiva y amigable, SerConsciente365 brinda herramientas y recursos para mejorar el bienestar emocional en la vida diaria.
 
-## Características 
+## Características  Principales
 
 * **Registro y categorización de emociones:** Los usuarios pueden registrar fácilmente sus emociones diarias y categorizarlas, ayudando a identificar y comprender patrones emocionales.
 
