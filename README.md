@@ -29,9 +29,6 @@ SerConsciente365 es una aplicación centrada en el bienestar emocional y el desa
 
 https://play.google.com/store/apps/details?id=com.odremanferrer.serconsciente365&hl=es_MX&gl=US
 
-## Video
-https://youtu.be/sU_kDjx5yqw
-
 ## Feedback
 
 Si tienes alguna sugerencia o si encuentras algún problema, no dudes en escribir a odreman.ferrer@gmail.com
