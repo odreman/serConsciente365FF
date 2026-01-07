@@ -2,6 +2,16 @@
 
 ## Aplicación móvil para el registro diario de emociones
 
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-blue?style=for-the-badge)
+
+</div>
+
 ---
 
 ## 📋 Descripción del Proyecto
@@ -100,21 +110,21 @@ El proyecto sigue los principios de **Clean Architecture**, organizando el códi
 
 - **BLoC Pattern:** Para la gestión del estado de la aplicación de manera reactiva y escalable
 
+### 🎯 Puntos Destacados del Desarrollo
+
+- ✅ **Arquitectura escalable:** Implementación de Clean Architecture para facilitar el mantenimiento y la escalabilidad
+- ✅ **Gestión de estado reactiva:** Uso del patrón BLoC para un flujo de datos predecible y testeable
+- ✅ **Backend serverless:** Integración completa con Firebase para reducir la complejidad del backend
+- ✅ **Diseño responsivo:** Interfaz adaptativa que funciona en diferentes tamaños de pantalla
+- ✅ **Sincronización en tiempo real:** Datos sincronizados automáticamente entre dispositivos
+
 ---
 
 ## 📦 Descarga
 
-### Google Play Store
-
-La aplicación está disponible en Google Play Store:
+La aplicación está disponible en **Google Play Store**:
 
 🔗 [Descargar desde Google Play](https://play.google.com/store/apps/details?id=com.odremanferrer.serconsciente365&hl=es_MX&gl=US)
-
-### APK Directo
-
-También puedes descargar el APK directamente:
-
-📥 [Descargar APK (app-release.apk)](APK/app-release.apk)
 
 ## 🎯 Objetivos del Proyecto
 
@@ -181,10 +191,15 @@ Posibles mejoras y funcionalidades futuras:
 
 ## 👤 Autor
 
+<div align="center">
+
 **Odreman Abraham Ferrer Díaz**
 
-- 📧 Email: odreman.ferrer@gmail.com
-- 🔗 [Google Play Store](https://play.google.com/store/apps/details?id=com.odremanferrer.serconsciente365&hl=es_MX&gl=US)
+Desarrollador de aplicaciones móviles especializado en Flutter
+
+[📧 Email](mailto:odreman.ferrer@gmail.com) • [🔗 Google Play](https://play.google.com/store/apps/details?id=com.odremanferrer.serconsciente365&hl=es_MX&gl=US)
+
+</div>
 
 ---
 
@@ -194,6 +209,9 @@ Esta obra está sujeta a una licencia de **Reconocimiento-NoComercial-SinObraDer
 
 Todos los derechos reservados © Odreman Ferrer. No se permite el uso, la copia, la distribución ni la modificación del código sin el permiso explícito del autor.
 
+---
+
 <div align="center">
   <p>Desarrollado con ❤️ usando Flutter y Firebase</p>
+  <p>Si este proyecto te resulta útil, ¡considera darle una ⭐!</p>
 </div>
